@@ -34,6 +34,22 @@
   <content_rating type="oars-1.1" />
 
   <releases>
+    <release version="3.15.0" date="2025-02-07">
+      <description translatable="no">
+        <p>Recommended to click "Reset all" button in settings after update from previous versions.</p>
+        <ol>
+          <li>"Find and replace" dialog improved for keyboard usage (thanks KolhozTools).</li>
+          <li>Brazilian Portuguese language added (thanks williampe99).</li>
+          <li>Support for opening .s files added.</li>
+          <li>Problems with non-latin usernames in Windows fixed more robustly.</li>
+          <li>Cursor jumps during editing while debugging fixed.</li>
+          <li>Fresh GCC versions build warnings fixed.</li>
+          <li>Fresh GDB versions debugging problems fixed.</li>
+          <li>Syntax highlighting fixed.</li>
+          <li>Other minor fixes applied.</li>
+        </ol>
+      </description>
+    </release>
     <release version="3.14.0" date="2023-03-03">
       <description translatable="no">
         <p>Recommended to click "Reset all" button in settings after update from previous versions.</p>
